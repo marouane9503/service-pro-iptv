@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Contact IPTV ONLINE UK Customer Service - Premium 24/7 Support',
     description: 'Get instant help from IPTV ONLINE UK customer service. Expert support for all your IPTV streaming needs available 24/7.',
-    url: 'https://gammaiptv.online/contacts/',
+    url: 'https://iptvonlineuk.com/contacts/',
   },
 }
 
@@ -39,8 +39,8 @@ export default function Contacts() {
       title: "Email Support",
       subtitle: "IPTV ONLINE UK Customer Service Email",
       description: "Send detailed inquiries to our IPTV ONLINE UK customer service team",
-      action: "contact@gammaiptv.online",
-      link: "mailto:contact@gammaiptv.online",
+      action: "contact@iptvonlineuk.com",
+      link: "mailto:contact@iptvonlineuk.com",
       availability: "Response within 2 hours"
     }
   ]

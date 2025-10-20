@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Premium IPTV ONLINE UK Subscription Services - English',
     description: 'Experience premium services IPTV Gamma provides. Best IPTV ONLINE UK subscription with worldwide channels and premium support.',
-    url: 'https://gammaiptv.online/en/',
+    url: 'https://iptvonlineuk.com/en/',
   },
 }
 

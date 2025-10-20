@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'All IPTV ONLINE UK Subscription Plans - Complete Collection',
     description: 'Discover all available IPTV ONLINE UK subscription options with premium streaming features.',
-    url: 'https://gammaiptv.online/product-category/iptv-subscription/page/3/',
+    url: 'https://iptvonlineuk.com/product-category/iptv-subscription/page/3/',
   },
 }
 

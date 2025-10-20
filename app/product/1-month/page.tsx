@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'IPTV ONLINE UK 1 Month Subscription - Official Website',
     description: 'Premium IPTV ONLINE UK 1 month subscription with 25,000+ channels and 26,000+ movies. Official IPTV ONLINE UK website.',
-    url: 'https://gammaiptv.online/product/1-month/',
+    url: 'https://iptvonlineuk.com/product/1-month/',
   },
 }
 
