@@ -86,6 +86,24 @@ export default function RootLayout({
         <IPTVONLINEUKStructuredData />
         {children}
         
+        {/* Google Analytics */}
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-HDHHD12SGJ"
+          strategy="afterInteractive"
+        />
+        <Script
+          id="google-analytics"
+          strategy="afterInteractive"
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'G-HDHHD12SGJ');
+            `
+          }}
+        />
+        
         {/* Tawk.to Live Chat Script */}
         <Script
           id="tawk-to-chat"
