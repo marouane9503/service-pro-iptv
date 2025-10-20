@@ -11,11 +11,11 @@ export default function SubscriptionPricing() {
           </div>
           
           <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold text-gray-800 mb-4 sm:mb-6">
-            IPTVPUT Subscription Plans
+            IPTV ONLINE UK Subscription Plans
           </h2>
           
           <p className="text-base sm:text-lg lg:text-xl text-gray-600 max-w-xs sm:max-w-2xl lg:max-w-4xl mx-auto leading-relaxed">
-            Choose your perfect IPTVPUT subscription plan and start streaming today with flexible billing options. 
+            Choose your perfect IPTV ONLINE UK subscription plan and start streaming today with flexible billing options. 
             <span className="hidden sm:inline"> Perfect for all your entertainment needs with monthly to annual plans.</span>
           </p>
         </div>

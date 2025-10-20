@@ -14,7 +14,7 @@ export default function Header() {
           <div className="flex items-center">
             <img 
               src="/images/LOGO.webp" 
-              alt="IPTVPUT Logo" 
+              alt="IPTV ONLINE UK Logo" 
               className="h-8 sm:h-10 lg:h-12 w-auto object-contain"
             />
           </div>

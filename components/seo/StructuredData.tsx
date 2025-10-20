@@ -1,13 +1,13 @@
 // JSON-LD Structured Data for better SEO
-export function IPTVPUTStructuredData() {
+export function IPTVONLINEUKStructuredData() {
   const organizationData = {
     "@context": "https://schema.org",
     "@type": "Organization",
-    "name": "IPTVPUT",
-    "alternateName": ["IPTVPUT Service", "IPTVPUT"],
-    "url": "https://iptvput.com",
-    "logo": "https://iptvput.com/images/LOGO.webp",
-    "description": "IPTVPUT - Premium IPTV streaming service with 25,000+ live TV channels and 26,000+ movies. Professional IPTV subscription provider.",
+    "name": "IPTV ONLINE UK",
+    "alternateName": ["IPTV ONLINE UK Service", "IPTV UK"],
+    "url": "https://iptvonlineuk.com",
+    "logo": "https://iptvonlineuk.com/images/LOGO.webp",
+    "description": "IPTV ONLINE UK - Premium IPTV streaming service with 25,000+ live TV channels and 26,000+ movies. Professional IPTV subscription provider.",
     "contactPoint": {
       "@type": "ContactPoint",
       "telephone": "+44-7956-154482",
@@ -31,23 +31,23 @@ export function IPTVPUTStructuredData() {
   const serviceData = {
     "@context": "https://schema.org",
     "@type": "Service",
-    "name": "IPTVPUT Subscription Service",
-    "description": "Premium IPTVPUT streaming service offering 25,000+ live TV channels, 26,000+ movies and TV shows with HD/4K quality streaming.",
+    "name": "IPTV ONLINE UK Subscription Service",
+    "description": "Premium IPTV ONLINE UK streaming service offering 25,000+ live TV channels, 26,000+ movies and TV shows with HD/4K quality streaming.",
     "provider": {
       "@type": "Organization",
-      "name": "IPTVPUT"
+      "name": "IPTV ONLINE UK"
     },
     "serviceType": "IPTV Streaming Service",
     "areaServed": "Worldwide",
     "hasOfferCatalog": {
       "@type": "OfferCatalog",
-      "name": "IPTVPUT Subscription Plans",
+      "name": "IPTV ONLINE UK Subscription Plans",
       "itemListElement": [
         {
           "@type": "Offer",
           "itemOffered": {
             "@type": "Service",
-            "name": "IPTVPUT 1 Month Subscription"
+            "name": "IPTV ONLINE UK 1 Month Subscription"
           },
           "price": "10.99",
           "priceCurrency": "USD"
@@ -56,7 +56,7 @@ export function IPTVPUTStructuredData() {
           "@type": "Offer", 
           "itemOffered": {
             "@type": "Service",
-            "name": "IPTVPUT 12 Month Subscription"
+            "name": "IPTV ONLINE UK 12 Month Subscription"
           },
           "price": "49.99",
           "priceCurrency": "USD"
@@ -65,7 +65,7 @@ export function IPTVPUTStructuredData() {
           "@type": "Offer",
           "itemOffered": {
             "@type": "Service", 
-            "name": "IPTVPUT Premium Package"
+            "name": "IPTV ONLINE UK Premium Package"
           },
           "price": "289",
           "priceCurrency": "USD"
@@ -84,22 +84,22 @@ export function IPTVPUTStructuredData() {
   const websiteData = {
     "@context": "https://schema.org",
     "@type": "WebSite",
-    "name": "IPTVPUT",
-    "alternateName": "IPTVPUT Official Website",
-    "url": "https://iptvput.com",
-    "description": "Official IPTVPUT website offering premium IPTV subscriptions with 25,000+ channels and 26,000+ movies.",
+    "name": "IPTV ONLINE UK",
+    "alternateName": "IPTV ONLINE UK Official Website",
+    "url": "https://iptvonlineuk.com",
+    "description": "Official IPTV ONLINE UK website offering premium IPTV subscriptions with 25,000+ channels and 26,000+ movies.",
     "publisher": {
       "@type": "Organization",
-      "name": "IPTVPUT"
+      "name": "IPTV ONLINE UK"
     },
     "potentialAction": {
       "@type": "SearchAction",
-      "target": "https://iptvput.com/search?q={search_term_string}",
+      "target": "https://iptvonlineuk.com/search?q={search_term_string}",
       "query-input": "required name=search_term_string"
     },
     "mainEntity": {
       "@type": "Service",
-      "name": "IPTVPUT Service"
+      "name": "IPTV ONLINE UK Service"
     }
   }
 
@@ -127,7 +127,7 @@ export function IPTVPUTStructuredData() {
   )
 }
 
-export function GammaIPTVBreadcrumb({ items }: { items: Array<{ name: string; url?: string }> }) {
+export function IPTVONLINEUKBreadcrumb({ items }: { items: Array<{ name: string; url?: string }> }) {
   const breadcrumbData = {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
@@ -135,7 +135,7 @@ export function GammaIPTVBreadcrumb({ items }: { items: Array<{ name: string; ur
       "@type": "ListItem",
       "position": index + 1,
       "name": item.name,
-      "item": item.url ? `https://iptvput.com${item.url}` : undefined
+      "item": item.url ? `https://iptvonlineuk.com${item.url}` : undefined
     }))
   }
 

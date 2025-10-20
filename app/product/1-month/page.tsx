@@ -4,12 +4,12 @@ import Footer from '@/components/Footer'
 import { Check, Star, Users, Shield, Clock, Play, MessageCircle, Smartphone, Tv, Monitor, Tablet } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: 'Gamma IPTV 1 Month Subscription - Official Gamma IPTV Website',
-  description: 'Get Gamma IPTV 1 month subscription from the official Gamma IPTV website. Premium IPTV streaming with 25,000+ channels, HD & 4K quality. Start your Gamma IPTV subscription today.',
+  title: 'IPTV ONLINE UK 1 Month Subscription - Official IPTV ONLINE UK Website',
+  description: 'Get IPTV ONLINE UK 1 month subscription from the official IPTV ONLINE UK website. Premium IPTV streaming with 25,000+ channels, HD & 4K quality. Start your IPTV ONLINE UK subscription today.',
   keywords: 'gamma iptv website, gamma iptv subscription, gamma iptv 1 month, premium iptv, iptv streaming, live tv channels',
   openGraph: {
-    title: 'Gamma IPTV 1 Month Subscription - Official Website',
-    description: 'Premium Gamma IPTV 1 month subscription with 25,000+ channels and 26,000+ movies. Official Gamma IPTV website.',
+    title: 'IPTV ONLINE UK 1 Month Subscription - Official Website',
+    description: 'Premium IPTV ONLINE UK 1 month subscription with 25,000+ channels and 26,000+ movies. Official IPTV ONLINE UK website.',
     url: 'https://gammaiptv.online/product/1-month/',
   },
 }
@@ -24,15 +24,15 @@ export default function GammaIPTV1MonthProduct() {
         <div className="container mx-auto px-4 text-center">
           <div className="max-w-4xl mx-auto">
             <div className="inline-block bg-white bg-opacity-20 px-4 py-2 rounded-full text-sm font-semibold mb-6">
-              Official Gamma IPTV Website
+              Official IPTV ONLINE UK Website
             </div>
             
             <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold mb-6 leading-tight">
-              <span className="text-blue-300">Gamma IPTV</span> 1 Month Subscription
+              <span className="text-blue-300">IPTV ONLINE UK</span> 1 Month Subscription
             </h1>
             
             <p className="text-xl sm:text-2xl max-w-4xl mx-auto leading-relaxed mb-8">
-              Experience premium IPTV streaming with our 1-month Gamma IPTV subscription. 
+              Experience premium IPTV streaming with our 1-month IPTV ONLINE UK subscription. 
               Perfect for testing our service with 25,000+ channels and 26,000+ movies.
             </p>
             
@@ -66,7 +66,7 @@ export default function GammaIPTV1MonthProduct() {
               {/* Product Info */}
               <div>
                 <h2 className="text-3xl sm:text-4xl font-bold text-gray-800 mb-6">
-                  Gamma IPTV 1 Month Subscription Details
+                  IPTV ONLINE UK 1 Month Subscription Details
                 </h2>
                 
                 <div className="bg-blue-50 rounded-2xl p-8 mb-8">
@@ -171,10 +171,10 @@ export default function GammaIPTV1MonthProduct() {
         <div className="container mx-auto px-4">
           <div className="text-center mb-12">
             <h2 className="text-3xl sm:text-4xl font-bold text-gray-800 mb-6">
-              Compare Gamma IPTV Subscription Plans
+              Compare IPTV ONLINE UK Subscription Plans
             </h2>
             <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-              Choose the perfect Gamma IPTV subscription plan that fits your needs and budget
+              Choose the perfect IPTV ONLINE UK subscription plan that fits your needs and budget
             </p>
           </div>
 
@@ -257,10 +257,10 @@ export default function GammaIPTV1MonthProduct() {
       <section className="py-16 sm:py-20 bg-gradient-to-br from-blue-600 to-purple-700 text-white">
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl sm:text-4xl font-bold mb-6">
-            Ready to Start Your Gamma IPTV Subscription?
+            Ready to Start Your IPTV ONLINE UK Subscription?
           </h2>
           <p className="text-xl mb-8 max-w-2xl mx-auto">
-            Join thousands of satisfied customers who trust the official Gamma IPTV website 
+            Join thousands of satisfied customers who trust the official IPTV ONLINE UK website 
             for their premium IPTV streaming needs.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">

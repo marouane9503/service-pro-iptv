@@ -5,8 +5,8 @@ import Footer from '../components/Footer'
 import { Home, Search, ArrowLeft } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: 'Page Not Found - IPTVPUT | Return to Premium IPTV Service',
-  description: 'The page you are looking for was not found. Return to IPTVPUT homepage to explore our premium IPTV subscription plans and streaming services.',
+  title: 'Page Not Found - IPTV ONLINE UK | Return to Premium IPTV Service',
+  description: 'The page you are looking for was not found. Return to IPTV ONLINE UK homepage to explore our premium IPTV subscription plans and streaming services.',
   robots: {
     index: false,
     follow: true
@@ -38,7 +38,7 @@ export default function NotFound() {
                 className="bg-primary-600 text-white px-8 py-4 rounded-lg text-lg font-semibold hover:bg-primary-700 transition-colors inline-flex items-center justify-center"
               >
                 <Home className="w-5 h-5 mr-2" />
-                Back to IPTVPUT Home
+                Back to IPTV ONLINE UK Home
               </Link>
               
               <Link 
@@ -50,30 +50,30 @@ export default function NotFound() {
               </Link>
             </div>
             
-            {/* Popular Gamma IPTV Pages */}
+            {/* Popular IPTV ONLINE UK Pages */}
             <div className="mt-12">
               <h2 className="text-2xl font-bold text-gray-800 mb-6">
-                Popular IPTVPUT Pages
+                Popular IPTV ONLINE UK Pages
               </h2>
               
               <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
                 <Link href="/en" className="bg-white p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow">
                   <h3 className="font-bold text-gray-800 mb-2">Premium Services</h3>
-                  <p className="text-gray-600 text-sm">Explore IPTVPUT premium features</p>
+                  <p className="text-gray-600 text-sm">Explore IPTV ONLINE UK premium features</p>
                 </Link>
                 
                 <Link href="/product/1-month" className="bg-white p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow">
                   <h3 className="font-bold text-gray-800 mb-2">1 Month Plan</h3>
-                  <p className="text-gray-600 text-sm">Try Gamma IPTV monthly subscription</p>
+                  <p className="text-gray-600 text-sm">Try IPTV ONLINE UK monthly subscription</p>
                 </Link>
                 
                 <Link href="/contacts" className="bg-white p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow">
                   <h3 className="font-bold text-gray-800 mb-2">Customer Service</h3>
-                  <p className="text-gray-600 text-sm">24/7 Gamma IPTV support</p>
+                  <p className="text-gray-600 text-sm">24/7 IPTV ONLINE UK support</p>
                 </Link>
                 
                 <Link href="/about" className="bg-white p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow">
-                  <h3 className="font-bold text-gray-800 mb-2">About Gamma IPTV</h3>
+                  <h3 className="font-bold text-gray-800 mb-2">About IPTV ONLINE UK</h3>
                   <p className="text-gray-600 text-sm">Learn about our company</p>
                 </Link>
               </div>

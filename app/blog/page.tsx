@@ -5,13 +5,13 @@ import { Calendar, User, ArrowRight } from 'lucide-react'
 import { getWordPressPosts, formatDate, extractPlainText } from '../../lib/wordpress'
 
 export const metadata: Metadata = {
-  title: 'IPTVPUT Blog - Latest IPTV News & Streaming Guides | IPTVPUT Updates',
-  description: 'Read the latest IPTVPUT blog posts, streaming guides, and IPTV industry news. Stay updated with IPTVPUT service updates, tips, and entertainment technology insights.',
-  keywords: 'iptvput blog, iptv news, iptvput updates, streaming guides, iptv tips, iptvput service news, entertainment technology',
+  title: 'IPTV ONLINE UK Blog - Latest IPTV News & Streaming Guides | Updates',
+  description: 'Read the latest IPTV ONLINE UK blog posts, streaming guides, and IPTV industry news. Stay updated with IPTV ONLINE UK service updates, tips, and entertainment technology insights.',
+  keywords: 'iptv online uk blog, iptv news, iptv online uk updates, streaming guides, iptv tips, iptv online uk service news, entertainment technology',
   openGraph: {
-    title: 'IPTVPUT Blog - Latest IPTV News & Updates',
-    description: 'Stay informed with the latest IPTVPUT news, streaming guides, and IPTV industry insights from our expert team.',
-    url: 'https://iptvput.com/blog/',
+    title: 'IPTV ONLINE UK Blog - Latest IPTV News & Updates',
+    description: 'Stay informed with the latest IPTV ONLINE UK news, streaming guides, and IPTV industry insights from our expert team.',
+    url: 'https://iptvonlineuk.com/blog/',
   },
 }
 
@@ -26,10 +26,10 @@ export default async function Blog() {
       <section className="bg-gradient-to-br from-primary-600 to-primary-800 text-white py-12 sm:py-16 lg:py-20">
         <div className="container mx-auto px-4 text-center">
           <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold mb-4 sm:mb-6">
-            IPTVPUT <span className="text-blue-300">Blog</span>
+            IPTV ONLINE UK <span className="text-blue-300">Blog</span>
           </h1>
           <p className="text-base sm:text-lg md:text-xl lg:text-2xl max-w-xs sm:max-w-2xl lg:max-w-4xl mx-auto leading-relaxed">
-            Stay informed with the latest IPTVPUT news, streaming guides, and 
+            Stay informed with the latest IPTV ONLINE UK news, streaming guides, and 
             entertainment technology updates from our expert team.
           </p>
         </div>
@@ -42,7 +42,7 @@ export default async function Blog() {
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8">
               {posts.map((post) => {
                 const featuredImage = post._embedded?.['wp:featuredmedia']?.[0]?.source_url
-                const author = post._embedded?.author?.[0]?.name || 'IPTVPUT Team'
+                const author = post._embedded?.author?.[0]?.name || 'IPTV ONLINE UK Team'
                 const publishDate = formatDate(post.date)
 
                 return (
@@ -95,7 +95,7 @@ export default async function Blog() {
                 Blog Posts Coming Soon
               </h2>
               <p className="text-gray-600 max-w-xs sm:max-w-2xl mx-auto text-sm sm:text-base">
-                We're working on bringing you the latest Gamma IPTV news, guides, and updates. 
+                We're working on bringing you the latest IPTV ONLINE UK news, guides, and updates. 
                 Check back soon for exciting content about streaming technology and entertainment.
               </p>
             </div>
@@ -107,10 +107,10 @@ export default async function Blog() {
       <section className="py-12 sm:py-16 lg:py-20 bg-gray-50">
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold text-gray-800 mb-4 sm:mb-6">
-            Stay Updated with Gamma IPTV News
+            Stay Updated with IPTV ONLINE UK News
           </h2>
           <p className="text-base sm:text-lg lg:text-xl text-gray-600 max-w-xs sm:max-w-2xl mx-auto mb-6 sm:mb-8 leading-relaxed">
-            Get the latest updates about Gamma IPTV services, streaming technology, 
+            Get the latest updates about IPTV ONLINE UK services, streaming technology, 
             and exclusive offers.
           </p>
           <a 

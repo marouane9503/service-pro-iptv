@@ -10,13 +10,13 @@ import Testimonials from '../components/Testimonials'
 import Footer from '../components/Footer'
 
 export const metadata: Metadata = {
-  title: 'IPTVPUT - Official Website | Premium IPTV Subscription Service',
-  description: 'Official IPTVPUT website offering premium IPTV subscriptions. Get IPTVPUT with 25,000+ live TV channels, 26,000+ movies & TV shows. Start your IPTVPUT subscription today.',
-  keywords: 'iptvput, iptvput subscription, iptvput website, premium iptv, iptv streaming service, live tv channels, iptvput online',
+  title: 'IPTV ONLINE UK - Official Website | Premium IPTV Subscription Service',
+  description: 'Official IPTV ONLINE UK website offering premium IPTV subscriptions. Get IPTV ONLINE UK with 25,000+ live TV channels, 26,000+ movies & TV shows. Start your IPTV ONLINE UK subscription today.',
+  keywords: 'iptv online uk, iptv online uk subscription, iptv online uk website, premium iptv, iptv streaming service, live tv channels, uk iptv',
   openGraph: {
-    title: 'IPTVPUT - Official Website | Premium IPTV Subscription',
-    description: 'Get your IPTVPUT subscription from the official website. 25,000+ channels, 26,000+ movies with premium streaming quality.',
-    url: 'https://iptvput.com',
+    title: 'IPTV ONLINE UK - Official Website | Premium IPTV Subscription',
+    description: 'Get your IPTV ONLINE UK subscription from the official website. 25,000+ channels, 26,000+ movies with premium streaming quality.',
+    url: 'https://iptvonlineuk.com',
   },
 }
 

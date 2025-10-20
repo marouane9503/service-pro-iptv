@@ -4,12 +4,12 @@ import Footer from '../../components/Footer'
 import { Star, Shield, Zap, Users, Crown, Play, MessageCircle, Check } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: 'Gamma IPTV Subscription - Premium Services IPTV Gamma English',
-  description: 'Premium Gamma IPTV subscription services with 25,000+ channels. Get the best premium services IPTV Gamma offers with HD/4K quality and 24/7 support.',
+  title: 'IPTV ONLINE UK Subscription - Premium Services IPTV Gamma English',
+  description: 'Premium IPTV ONLINE UK subscription services with 25,000+ channels. Get the best premium services IPTV Gamma offers with HD/4K quality and 24/7 support.',
   keywords: 'gamma iptv subscription, premium services iptv gamma, gamma iptv english, iptv gamma premium, gamma iptv service, premium iptv subscription',
   openGraph: {
-    title: 'Premium Gamma IPTV Subscription Services - English',
-    description: 'Experience premium services IPTV Gamma provides. Best Gamma IPTV subscription with worldwide channels and premium support.',
+    title: 'Premium IPTV ONLINE UK Subscription Services - English',
+    description: 'Experience premium services IPTV Gamma provides. Best IPTV ONLINE UK subscription with worldwide channels and premium support.',
     url: 'https://gammaiptv.online/en/',
   },
 }
@@ -40,7 +40,7 @@ export default function English() {
 
   const subscriptionPlans = [
     {
-      name: "Basic Gamma IPTV Subscription",
+      name: "Basic IPTV ONLINE UK Subscription",
       price: "$10.99",
       period: "1 Month",
       features: [
@@ -54,7 +54,7 @@ export default function English() {
       popular: false
     },
     {
-      name: "Premium Gamma IPTV Subscription",
+      name: "Premium IPTV ONLINE UK Subscription",
       price: "$49.99", 
       period: "12 Months",
       features: [
@@ -68,7 +68,7 @@ export default function English() {
       popular: true
     },
     {
-      name: "Ultimate Gamma IPTV Subscription",
+      name: "Ultimate IPTV ONLINE UK Subscription",
       price: "$289",
       period: "Premium Package",
       features: [
@@ -96,13 +96,13 @@ export default function English() {
           </div>
           
           <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight">
-            Premium <span className="text-yellow-300">Gamma IPTV</span><br />
+            Premium <span className="text-yellow-300">IPTV ONLINE UK</span><br />
             Subscription Services
           </h1>
           
           <p className="text-xl sm:text-2xl max-w-4xl mx-auto leading-relaxed mb-8">
             Experience the ultimate premium services IPTV Gamma offers with our comprehensive 
-            Gamma IPTV subscription plans. Get access to 25,000+ premium channels, 
+            IPTV ONLINE UK subscription plans. Get access to 25,000+ premium channels, 
             26,000+ movies, and exclusive premium content with unmatched quality.
           </p>
           
@@ -135,7 +135,7 @@ export default function English() {
               Premium Services IPTV Gamma Provides
             </h2>
             <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-              Discover why our Gamma IPTV subscription includes the most comprehensive 
+              Discover why our IPTV ONLINE UK subscription includes the most comprehensive 
               premium services IPTV Gamma can offer for the ultimate streaming experience.
             </p>
           </div>
@@ -168,7 +168,7 @@ export default function English() {
                   Why Choose Premium Services IPTV Gamma?
                 </h2>
                 <p className="text-lg text-gray-600 mb-8">
-                  Our Gamma IPTV subscription stands out with exclusive premium services 
+                  Our IPTV ONLINE UK subscription stands out with exclusive premium services 
                   IPTV Gamma delivers, ensuring you get the best streaming experience possible.
                 </p>
                 
@@ -177,7 +177,7 @@ export default function English() {
                     <Check className="w-6 h-6 text-green-500 mr-4 mt-1 flex-shrink-0" />
                     <div>
                       <h3 className="text-xl font-bold text-gray-800 mb-2">Premium Channel Selection</h3>
-                      <p className="text-gray-600">Our Gamma IPTV subscription includes premium services IPTV Gamma curates from worldwide broadcasters.</p>
+                      <p className="text-gray-600">Our IPTV ONLINE UK subscription includes premium services IPTV Gamma curates from worldwide broadcasters.</p>
                     </div>
                   </div>
                   
@@ -193,7 +193,7 @@ export default function English() {
                     <Check className="w-6 h-6 text-green-500 mr-4 mt-1 flex-shrink-0" />
                     <div>
                       <h3 className="text-xl font-bold text-gray-800 mb-2">Premium Support System</h3>
-                      <p className="text-gray-600">24/7 premium customer support is included in every Gamma IPTV subscription plan we offer.</p>
+                      <p className="text-gray-600">24/7 premium customer support is included in every IPTV ONLINE UK subscription plan we offer.</p>
                     </div>
                   </div>
                 </div>
@@ -230,10 +230,10 @@ export default function English() {
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
             <h2 className="text-3xl sm:text-4xl font-bold text-gray-800 mb-6">
-              Gamma IPTV Subscription Plans
+              IPTV ONLINE UK Subscription Plans
             </h2>
             <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-              Choose your perfect Gamma IPTV subscription plan and enjoy all the premium services 
+              Choose your perfect IPTV ONLINE UK subscription plan and enjoy all the premium services 
               IPTV Gamma has to offer with flexible pricing options.
             </p>
           </div>
@@ -301,7 +301,7 @@ export default function English() {
             Experience Premium Services IPTV Gamma Today
           </h2>
           <p className="text-xl mb-8 max-w-2xl mx-auto">
-            Join thousands of satisfied customers enjoying our premium Gamma IPTV subscription 
+            Join thousands of satisfied customers enjoying our premium IPTV ONLINE UK subscription 
             with all the premium services IPTV Gamma provides for ultimate entertainment.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">

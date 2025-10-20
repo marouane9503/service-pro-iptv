@@ -2,35 +2,35 @@ import './globals.css'
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
 import Script from 'next/script'
-import { IPTVPUTStructuredData } from '../components/seo/StructuredData'
+import { IPTVONLINEUKStructuredData } from '../components/seo/StructuredData'
 
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'IPTVPUT - Premium IPTV Streaming Service | 25,000+ Channels',
-  description: 'IPTVPUT offers premium IPTV streaming with 25,000+ live TV channels, 26,000+ movies & TV shows. Get your IPTVPUT subscription with HD & 4K quality streaming worldwide.',
-  keywords: 'IPTVPUT, iptvput subscription, premium iptv, iptv streaming, live tv channels, iptv service, iptvput online, iptv provider, streaming service',
+  title: 'IPTV ONLINE UK - Premium IPTV Streaming Service | 25,000+ Channels',
+  description: 'IPTV ONLINE UK offers premium IPTV streaming with 25,000+ live TV channels, 26,000+ movies & TV shows. Get your IPTV ONLINE UK subscription with HD & 4K quality streaming worldwide.',
+  keywords: 'IPTV ONLINE UK, iptv online uk subscription, premium iptv, iptv streaming, live tv channels, iptv service, uk iptv provider, iptv uk, streaming service',
   openGraph: {
-    title: 'IPTVPUT - Premium IPTV Streaming Service | 25,000+ Channels',
-    description: 'Get IPTVPUT subscription with 25,000+ live TV channels and 26,000+ movies. Premium IPTV streaming service with HD & 4K quality.',
-    url: 'https://iptvput.com',
-    siteName: 'IPTVPUT',
+    title: 'IPTV ONLINE UK - Premium IPTV Streaming Service | 25,000+ Channels',
+    description: 'Get IPTV ONLINE UK subscription with 25,000+ live TV channels and 26,000+ movies. Premium IPTV streaming service with HD & 4K quality.',
+    url: 'https://iptvonlineuk.com',
+    siteName: 'IPTV ONLINE UK',
     locale: 'en_US',
     type: 'website',
     images: [
       {
-        url: 'https://iptvput.com/images/LOGO.webp',
+        url: 'https://iptvonlineuk.com/images/LOGO.webp',
         width: 300,
         height: 300,
-        alt: 'IPTVPUT Logo - Premium IPTV Streaming Service'
+        alt: 'IPTV ONLINE UK Logo - Premium IPTV Streaming Service'
       }
     ]
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'IPTVPUT - Premium IPTV Streaming Service',
-    description: 'Premium IPTVPUT streaming with 25,000+ channels. Best IPTV subscription service.',
-    images: ['https://iptvput.com/images/LOGO.webp']
+    title: 'IPTV ONLINE UK - Premium IPTV Streaming Service',
+    description: 'Premium IPTV ONLINE UK streaming with 25,000+ channels. Best IPTV subscription service.',
+    images: ['https://iptvonlineuk.com/images/LOGO.webp']
   },
   robots: {
     index: true,
@@ -44,13 +44,13 @@ export const metadata: Metadata = {
     },
   },
   verification: {
-    google: 'iptvput-verification', // Add Google Search Console verification
+    google: 'iptvonlineuk-verification', // Add Google Search Console verification
   },
   alternates: {
-    canonical: 'https://iptvput.com',
+    canonical: 'https://iptvonlineuk.com',
     languages: {
-      'en': 'https://iptvput.com',
-      'en-US': 'https://iptvput.com/en',
+      'en': 'https://iptvonlineuk.com',
+      'en-US': 'https://iptvonlineuk.com/en',
     }
   },
   icons: {
@@ -73,17 +73,17 @@ export default function RootLayout({
       <head>
         <link rel="icon" href="/favicon.ico" sizes="any" />
         <link rel="icon" href="/images/ICON.ico" />
-        <link rel="canonical" href="https://iptvput.com" />
+        <link rel="canonical" href="https://iptvonlineuk.com" />
         <meta name="theme-color" content="#2563eb" />
         <meta name="msapplication-TileColor" content="#2563eb" />
-        <meta name="application-name" content="IPTVPUT" />
-        <meta name="apple-mobile-web-app-title" content="IPTVPUT" />
+        <meta name="application-name" content="IPTV ONLINE UK" />
+        <meta name="apple-mobile-web-app-title" content="IPTV ONLINE UK" />
         <meta name="format-detection" content="telephone=no" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
       </head>
       <body className={inter.className}>
-        <IPTVPUTStructuredData />
+        <IPTVONLINEUKStructuredData />
         {children}
         
         {/* Tawk.to Live Chat Script */}

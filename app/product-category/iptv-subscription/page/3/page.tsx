@@ -4,12 +4,12 @@ import Footer from '@/components/Footer'
 import { Check, Star, Users, Shield, Clock, Play, ArrowLeft, ArrowRight } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: 'Gamma IPTV Subscription Plans Collection - All Available Packages',
-  description: 'Browse all Gamma IPTV subscription plans and packages. Find the perfect Gamma IPTV subscription that fits your streaming needs with flexible pricing options.',
+  title: 'IPTV ONLINE UK Subscription Plans Collection - All Available Packages',
+  description: 'Browse all IPTV ONLINE UK subscription plans and packages. Find the perfect IPTV ONLINE UK subscription that fits your streaming needs with flexible pricing options.',
   keywords: 'gamma iptv subscription, gamma iptv plans, iptv subscription packages, gamma iptv pricing, premium iptv subscriptions',
   openGraph: {
-    title: 'All Gamma IPTV Subscription Plans - Complete Collection',
-    description: 'Discover all available Gamma IPTV subscription options with premium streaming features.',
+    title: 'All IPTV ONLINE UK Subscription Plans - Complete Collection',
+    description: 'Discover all available IPTV ONLINE UK subscription options with premium streaming features.',
     url: 'https://gammaiptv.online/product-category/iptv-subscription/page/3/',
   },
 }
@@ -161,16 +161,16 @@ export default function GammaIPTVSubscriptionPage3() {
         <div className="container mx-auto px-4 text-center">
           <div className="max-w-4xl mx-auto">
             <div className="inline-block bg-white bg-opacity-20 px-4 py-2 rounded-full text-sm font-semibold mb-6">
-              Complete Gamma IPTV Subscription Collection
+              Complete IPTV ONLINE UK Subscription Collection
             </div>
             
             <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold mb-6 leading-tight">
-              <span className="text-blue-300">Gamma IPTV</span> Subscription Plans
+              <span className="text-blue-300">IPTV ONLINE UK</span> Subscription Plans
             </h1>
             
             <p className="text-xl sm:text-2xl max-w-4xl mx-auto leading-relaxed mb-8">
-              Discover all available Gamma IPTV subscription options. From flexible monthly plans 
-              to premium packages, find the perfect Gamma IPTV subscription that fits your streaming needs and budget.
+              Discover all available IPTV ONLINE UK subscription options. From flexible monthly plans 
+              to premium packages, find the perfect IPTV ONLINE UK subscription that fits your streaming needs and budget.
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -218,10 +218,10 @@ export default function GammaIPTVSubscriptionPage3() {
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
             <h2 className="text-3xl sm:text-4xl font-bold text-gray-800 mb-6">
-              All Gamma IPTV Subscription Plans
+              All IPTV ONLINE UK Subscription Plans
             </h2>
             <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-              Choose from our complete collection of Gamma IPTV subscription plans. 
+              Choose from our complete collection of IPTV ONLINE UK subscription plans. 
               Each package is designed to provide exceptional value and premium streaming experience.
             </p>
           </div>

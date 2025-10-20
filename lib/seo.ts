@@ -1,25 +1,25 @@
-// SEO Configuration for IPTVPUT
+// SEO Configuration for IPTV ONLINE UK
 export const siteConfig = {
-  name: "IPTVPUT",
-  title: "IPTVPUT - Premium IPTV Streaming Service",
-  description: "IPTVPUT offers premium IPTV streaming with 25,000+ live TV channels and 26,000+ movies. Get your IPTVPUT subscription today.",
-  url: "https://iptvput.com",
-  ogImage: "https://iptvput.com/images/LOGO.webp",
+  name: "IPTV ONLINE UK",
+  title: "IPTV ONLINE UK - Premium IPTV Streaming Service",
+  description: "IPTV ONLINE UK offers premium IPTV streaming with 25,000+ live TV channels and 26,000+ movies. Get your IPTV ONLINE UK subscription today.",
+  url: "https://iptvonlineuk.com",
+  ogImage: "https://iptvonlineuk.com/images/LOGO.webp",
   keywords: [
-    "iptvput",
-    "iptvput subscription", 
+    "iptv online uk",
+    "iptv online uk subscription", 
     "premium iptv",
     "iptv streaming",
     "live tv channels",
     "iptv service",
-    "iptvput online",
-    "iptvput website",
-    "iptv provider",
+    "iptv online uk website",
+    "uk iptv provider",
+    "iptv uk",
     "streaming service"
   ],
-  author: "IPTVPUT Team",
-  creator: "IPTVPUT",
-  publisher: "IPTVPUT",
+  author: "IPTV ONLINE UK Team",
+  creator: "IPTV ONLINE UK",
+  publisher: "IPTV ONLINE UK",
   category: "technology",
   locale: "en_US",
   type: "website"
@@ -60,7 +60,7 @@ export const generateMetadata = (
       title: title ? `${title} | ${siteConfig.name}` : siteConfig.title,
       description: description || siteConfig.description,
       images: [ogImage || siteConfig.ogImage],
-      creator: "@iptvput"
+      creator: "@iptvonlineuk"
     },
     robots: {
       index: true,
