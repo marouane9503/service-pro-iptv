@@ -40,19 +40,19 @@ export default function PricingPage() {
             <div className="bg-white p-6 rounded-lg shadow-lg">
               <h3 className="text-xl font-bold text-primary-600 mb-4">Best Value</h3>
               <p className="text-gray-600">
-                Our Gamma IPTV subscription offers the best value in the market with competitive pricing for premium access.
+                Our IPTVPUT subscription offers the best value in the market with competitive pricing for premium access.
               </p>
             </div>
             <div className="bg-white p-6 rounded-lg shadow-lg">
               <h3 className="text-xl font-bold text-primary-600 mb-4">Premium Quality</h3>
               <p className="text-gray-600">
-                Enjoy HD & 4K streaming quality with our Gamma IPTV service, featuring 25,000+ channels.
+                Enjoy HD & 4K streaming quality with our IPTVPUT service, featuring 25,000+ channels.
               </p>
             </div>
             <div className="bg-white p-6 rounded-lg shadow-lg">
               <h3 className="text-xl font-bold text-primary-600 mb-4">24/7 Support</h3>
               <p className="text-gray-600">
-                Get premium customer support included with every Gamma IPTV subscription plan.
+                Get premium customer support included with every IPTVPUT subscription plan.
               </p>
             </div>
           </div>

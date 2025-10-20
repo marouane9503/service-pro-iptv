@@ -4,13 +4,13 @@ import Footer from '../../components/Footer'
 import { Phone, Mail, MessageCircle, Clock, MapPin, Headphones, Users, Shield } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: 'Contact Gamma IPTV Customer Service - 24/7 Premium IPTV Support',
-  description: 'Contact Gamma IPTV customer service for instant support. Our premium Gamma IPTV customer service team provides 24/7 assistance via WhatsApp, phone, and email for all your IPTV needs.',
-  keywords: 'contact gamma iptv, gamma iptv customer service, gamma iptv support, iptv customer service, gamma iptv help, premium iptv support, gamma iptv contact number',
+  title: 'Contact IPTVPUT Customer Service - 24/7 Premium IPTV Support',
+  description: 'Contact IPTVPUT customer service for instant support. Our premium IPTVPUT customer service team provides 24/7 assistance via WhatsApp, phone, and email for all your IPTV needs.',
+  keywords: 'contact iptvput, iptvput customer service, iptvput support, iptv customer service, iptvput help, premium iptv support, iptvput contact number',
   openGraph: {
-    title: 'Contact Gamma IPTV Customer Service - Premium 24/7 Support',
-    description: 'Get instant help from Gamma IPTV customer service. Expert support for all your IPTV streaming needs available 24/7.',
-    url: 'https://gammaiptv.online/contacts/',
+    title: 'Contact IPTVPUT Customer Service - Premium 24/7 Support',
+    description: 'Get instant help from IPTVPUT customer service. Expert support for all your IPTV streaming needs available 24/7.',
+    url: 'https://iptvput.com/contacts/',
   },
 }
 
@@ -19,8 +19,8 @@ export default function Contacts() {
     {
       icon: <MessageCircle className="w-8 h-8 text-green-500" />,
       title: "WhatsApp Support",
-      subtitle: "Instant Gamma IPTV Customer Service",
-      description: "Get immediate assistance from our Gamma IPTV customer service team via WhatsApp",
+      subtitle: "Instant IPTVPUT Customer Service",
+      description: "Get immediate assistance from our IPTVPUT customer service team via WhatsApp",
       action: "Chat with Support",
       link: "https://wa.link/eepo31",
       availability: "24/7 Available"
@@ -28,7 +28,7 @@ export default function Contacts() {
     {
       icon: <Phone className="w-8 h-8 text-blue-500" />,
       title: "Phone Support", 
-      subtitle: "Direct Gamma IPTV Customer Service",
+      subtitle: "Direct IPTVPUT Customer Service",
       description: "Speak directly with our premium IPTV customer service representatives",
       action: "+1 (873) 300‑0545",
       link: "tel:+18733000545",
@@ -37,10 +37,10 @@ export default function Contacts() {
     {
       icon: <Mail className="w-8 h-8 text-purple-500" />,
       title: "Email Support",
-      subtitle: "Gamma IPTV Customer Service Email",
-      description: "Send detailed inquiries to our Gamma IPTV customer service team",
-      action: "contact@gammaiptv.online",
-      link: "mailto:contact@gammaiptv.online",
+      subtitle: "IPTVPUT Customer Service Email",
+      description: "Send detailed inquiries to our IPTVPUT customer service team",
+      action: "contact@iptvput.com",
+      link: "mailto:contact@iptvput.com",
       availability: "Response within 2 hours"
     }
   ]
@@ -49,22 +49,22 @@ export default function Contacts() {
     {
       icon: <Headphones className="w-6 h-6 text-blue-500" />,
       title: "Premium IPTV Support",
-      description: "Expert Gamma IPTV customer service for all technical issues"
+      description: "Expert IPTVPUT customer service for all technical issues"
     },
     {
       icon: <Users className="w-6 h-6 text-green-500" />,
       title: "Dedicated Account Manager",
-      description: "Personal Gamma IPTV customer service representative for VIP customers"
+      description: "Personal IPTVPUT customer service representative for VIP customers"
     },
     {
       icon: <Shield className="w-6 h-6 text-purple-500" />,
       title: "Secure Support",
-      description: "Safe and secure Gamma IPTV customer service with data protection"
+      description: "Safe and secure IPTVPUT customer service with data protection"
     },
     {
       icon: <Clock className="w-6 h-6 text-orange-500" />,
       title: "24/7 Availability", 
-      description: "Round-the-clock Gamma IPTV customer service when you need it"
+      description: "Round-the-clock IPTVPUT customer service when you need it"
     }
   ]
 
@@ -76,10 +76,10 @@ export default function Contacts() {
       <section className="bg-gradient-to-br from-blue-600 to-purple-700 text-white py-16 sm:py-20">
         <div className="container mx-auto px-4 text-center">
           <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold mb-6">
-            Gamma IPTV <span className="text-blue-300">Customer Service</span>
+            IPTVPUT <span className="text-blue-300">Customer Service</span>
           </h1>
           <p className="text-xl sm:text-2xl max-w-4xl mx-auto leading-relaxed mb-8">
-            Premium 24/7 Gamma IPTV customer service support for all your streaming needs. 
+            Premium 24/7 IPTVPUT customer service support for all your streaming needs. 
             Our expert team provides instant assistance for technical issues, billing, and account management.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -108,10 +108,10 @@ export default function Contacts() {
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
             <h2 className="text-3xl sm:text-4xl font-bold text-gray-800 mb-6">
-              Contact Gamma IPTV Customer Service
+              Contact IPTVPUT Customer Service
             </h2>
             <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-              Choose your preferred method to reach our premium Gamma IPTV customer service team. 
+              Choose your preferred method to reach our premium IPTVPUT customer service team. 
               We're here to help with setup, technical issues, billing, and any questions about your IPTV service.
             </p>
           </div>

@@ -95,7 +95,7 @@ export default async function Blog() {
                 Blog Posts Coming Soon
               </h2>
               <p className="text-gray-600 max-w-xs sm:max-w-2xl mx-auto text-sm sm:text-base">
-                We're working on bringing you the latest Gamma IPTV news, guides, and updates. 
+                We're working on bringing you the latest IPTVPUT news, guides, and updates. 
                 Check back soon for exciting content about streaming technology and entertainment.
               </p>
             </div>
@@ -107,10 +107,10 @@ export default async function Blog() {
       <section className="py-12 sm:py-16 lg:py-20 bg-gray-50">
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold text-gray-800 mb-4 sm:mb-6">
-            Stay Updated with Gamma IPTV News
+            Stay Updated with IPTVPUT News
           </h2>
           <p className="text-base sm:text-lg lg:text-xl text-gray-600 max-w-xs sm:max-w-2xl mx-auto mb-6 sm:mb-8 leading-relaxed">
-            Get the latest updates about Gamma IPTV services, streaming technology, 
+            Get the latest updates about IPTVPUT services, streaming technology, 
             and exclusive offers.
           </p>
           <a 

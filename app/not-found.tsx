@@ -50,7 +50,7 @@ export default function NotFound() {
               </Link>
             </div>
             
-            {/* Popular Gamma IPTV Pages */}
+            {/* Popular IPTVPUT Pages */}
             <div className="mt-12">
               <h2 className="text-2xl font-bold text-gray-800 mb-6">
                 Popular IPTVPUT Pages
@@ -64,16 +64,16 @@ export default function NotFound() {
                 
                 <Link href="/product/1-month" className="bg-white p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow">
                   <h3 className="font-bold text-gray-800 mb-2">1 Month Plan</h3>
-                  <p className="text-gray-600 text-sm">Try Gamma IPTV monthly subscription</p>
+                  <p className="text-gray-600 text-sm">Try IPTVPUT monthly subscription</p>
                 </Link>
                 
                 <Link href="/contacts" className="bg-white p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow">
                   <h3 className="font-bold text-gray-800 mb-2">Customer Service</h3>
-                  <p className="text-gray-600 text-sm">24/7 Gamma IPTV support</p>
+                  <p className="text-gray-600 text-sm">24/7 IPTVPUT support</p>
                 </Link>
                 
                 <Link href="/about" className="bg-white p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow">
-                  <h3 className="font-bold text-gray-800 mb-2">About Gamma IPTV</h3>
+                  <h3 className="font-bold text-gray-800 mb-2">About IPTVPUT</h3>
                   <p className="text-gray-600 text-sm">Learn about our company</p>
                 </Link>
               </div>

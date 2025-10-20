@@ -1,15 +1,15 @@
-# Gamma IPTV - Premium IPTV Streaming Service
+# IPTVPUT - Premium IPTV Streaming Service
 
-🚀 **SEO-Optimized Next.js Website** | **Fully Google-Ready** | **gammaiptv.online**
+🚀 **SEO-Optimized Next.js Website** | **Fully Google-Ready** | **iptvput.com**
 
 ## 📊 SEO Optimization Status
 
 ### ✅ **COMPLETE SEO IMPLEMENTATION**
 
-#### **🎯 Keyword Focus: "Gamma IPTV"**
-- Primary Keywords: `gamma iptv`, `gamma iptv subscription`, `gamma iptv website`
-- Secondary Keywords: `premium iptv`, `iptv streaming`, `gamma iptv service`
-- Long-tail Keywords: `gamma iptv customer service`, `premium services iptv gamma`
+#### **🎯 Keyword Focus: "IPTVPUT"**
+- Primary Keywords: `iptvput`, `iptvput subscription`, `iptvput website`
+- Secondary Keywords: `premium iptv`, `iptv streaming`, `iptvput service`
+- Long-tail Keywords: `iptvput customer service`, `premium services iptv`
 
 #### **🔍 Google Indexing Readiness**
 - ✅ **Sitemaps**: Complete XML sitemaps (`sitemap.xml`, `sitemap-pages.xml`, `sitemap-posts.xml`)
@@ -49,23 +49,23 @@
 ## 🎯 **SEO-Optimized Pages**
 
 ### **Homepage** (`/`)
-- **Title**: "Gamma IPTV - Official Website | Premium IPTV Subscription Service"
+- **Title**: "IPTVPUT - Official Website | Premium IPTV Subscription Service"
 - **Focus**: Primary brand keywords and subscription conversion
 - **Features**: Hero with trial CTA, pricing sections, testimonials
 
 ### **Customer Service** (`/contacts`)
-- **Title**: "Contact Gamma IPTV Customer Service - 24/7 Premium IPTV Support"  
-- **Focus**: "gamma iptv customer service" keyword cluster
+- **Title**: "Contact IPTVPUT Customer Service - 24/7 Premium IPTV Support"  
+- **Focus**: "iptvput customer service" keyword cluster
 - **Features**: Multiple contact methods, FAQ section, support features
 
 ### **Product Pages** (`/product/1-month`)
-- **Title**: "Gamma IPTV 1 Month Subscription - Official Gamma IPTV Website"
-- **Focus**: "gamma iptv website", "gamma iptv subscription"
+- **Title**: "IPTVPUT 1 Month Subscription - Official IPTVPUT Website"
+- **Focus**: "iptvput website", "iptvput subscription"
 - **Features**: Detailed product information, device compatibility
 
 ### **Premium Services** (`/en`)
-- **Title**: "Gamma IPTV Subscription - Premium Services IPTV Gamma English"
-- **Focus**: "premium services iptv gamma" keyword cluster  
+- **Title**: "IPTVPUT Subscription - Premium Services IPTV English"
+- **Focus**: "premium services iptv" keyword cluster  
 - **Features**: Premium service showcase, VIP features
 
 ## 🔧 **Technical Implementation**
@@ -75,8 +75,8 @@
 // Organization Schema
 {
   "@type": "Organization",
-  "name": "Gamma IPTV",
-  "url": "https://gammaiptv.online",
+  "name": "IPTVPUT",
+  "url": "https://iptvput.com",
   "contactPoint": {
     "@type": "ContactPoint", 
     "telephone": "+1-873-300-0545",
@@ -87,7 +87,7 @@
 // Service Schema  
 {
   "@type": "Service",
-  "name": "Gamma IPTV Subscription Service",
+  "name": "IPTVPUT Subscription Service",
   "serviceType": "IPTV Streaming Service",
   "areaServed": "Worldwide"
 }
@@ -95,24 +95,24 @@
 
 ### **Meta Tags Template**
 ```html
-<title>Gamma IPTV - Premium IPTV Streaming Service | 25,000+ Channels</title>
-<meta name="description" content="Gamma IPTV offers premium IPTV streaming with 25,000+ live TV channels, 26,000+ movies & TV shows..." />
-<meta name="keywords" content="gamma iptv, gamma iptv subscription, premium iptv..." />
-<link rel="canonical" href="https://gammaiptv.online" />
+<title>IPTVPUT - Premium IPTV Streaming Service | 25,000+ Channels</title>
+<meta name="description" content="IPTVPUT offers premium IPTV streaming with 25,000+ live TV channels, 26,000+ movies & TV shows..." />
+<meta name="keywords" content="iptvput, iptvput subscription, premium iptv..." />
+<link rel="canonical" href="https://iptvput.com" />
 ```
 
 ### **OpenGraph Optimization**
 ```html
-<meta property="og:title" content="Gamma IPTV - Premium IPTV Streaming Service" />
-<meta property="og:description" content="Get Gamma IPTV subscription with 25,000+ live TV channels..." />
-<meta property="og:image" content="https://gammaiptv.online/images/LOGO.webp" />
-<meta property="og:url" content="https://gammaiptv.online" />
+<meta property="og:title" content="IPTVPUT - Premium IPTV Streaming Service" />
+<meta property="og:description" content="Get IPTVPUT subscription with 25,000+ live TV channels..." />
+<meta property="og:image" content="https://iptvput.com/images/LOGO.webp" />
+<meta property="og:url" content="https://iptvput.com" />
 ```
 
 ## 🚀 **Deployment & Google Indexing**
 
 ### **Pre-Launch Checklist**
-- ✅ Domain configured: `gammaiptv.online`
+- ✅ Domain configured: `iptvput.com`
 - ✅ SSL certificate installed
 - ✅ Google Search Console setup
 - ✅ Google Analytics integration ready
@@ -121,11 +121,11 @@
 
 ### **Post-Launch SEO Tasks**
 1. **Submit Sitemaps** to Google Search Console:
-   - `https://gammaiptv.online/sitemap_index.xml`
-   - `https://gammaiptv.online/sitemap.xml`
+   - `https://iptvput.com/sitemap_index.xml`
+   - `https://iptvput.com/sitemap.xml`
 
 2. **Verify Indexing**:
-   - Use `site:gammaiptv.online` in Google
+   - Use `site:iptvput.com` in Google
    - Monitor Search Console for crawl errors
 
 3. **Performance Monitoring**:
@@ -142,8 +142,8 @@
 ## 📈 **Expected SEO Results**
 
 ### **Target Rankings** (3-6 months):
-- "Gamma IPTV" → Top 3
-- "Gamma IPTV subscription" → Page 1
+- "IPTVPUT" → Top 3
+- "IPTVPUT subscription" → Page 1
 - "Premium IPTV service" → Top 10
 - "IPTV streaming service" → Page 1-2
 
@@ -177,4 +177,4 @@ For SEO optimization support:
 
 **Status**: ✅ **FULLY SEO-OPTIMIZED** | **GOOGLE-READY** | **PRODUCTION-READY**
 
-**Domain**: `gammaiptv.online` | **Brand Focus**: "Gamma IPTV" | **Market**: Premium IPTV Services
+**Domain**: `iptvput.com` | **Brand Focus**: "IPTVPUT" | **Market**: Premium IPTV Services

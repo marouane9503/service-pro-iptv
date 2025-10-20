@@ -4,13 +4,13 @@ import Footer from '../../components/Footer'
 import { Star, Shield, Zap, Users, Crown, Play, MessageCircle, Check } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: 'Gamma IPTV Subscription - Premium Services IPTV Gamma English',
-  description: 'Premium Gamma IPTV subscription services with 25,000+ channels. Get the best premium services IPTV Gamma offers with HD/4K quality and 24/7 support.',
-  keywords: 'gamma iptv subscription, premium services iptv gamma, gamma iptv english, iptv gamma premium, gamma iptv service, premium iptv subscription',
+  title: 'IPTVPUT Subscription - Premium Services IPTV English',
+  description: 'Premium IPTVPUT subscription services with 25,000+ channels. Get the best premium services IPTV offers with HD/4K quality and 24/7 support.',
+  keywords: 'iptvput subscription, premium services iptv, iptvput english, iptv premium, iptvput service, premium iptv subscription',
   openGraph: {
-    title: 'Premium Gamma IPTV Subscription Services - English',
-    description: 'Experience premium services IPTV Gamma provides. Best Gamma IPTV subscription with worldwide channels and premium support.',
-    url: 'https://gammaiptv.online/en/',
+    title: 'Premium IPTVPUT Subscription Services - English',
+    description: 'Experience premium services IPTV provides. Best IPTVPUT subscription with worldwide channels and premium support.',
+    url: 'https://iptvput.com/en/',
   },
 }
 
@@ -40,7 +40,7 @@ export default function English() {
 
   const subscriptionPlans = [
     {
-      name: "Basic Gamma IPTV Subscription",
+      name: "Basic IPTVPUT Subscription",
       price: "$10.99",
       period: "1 Month",
       features: [
@@ -54,11 +54,11 @@ export default function English() {
       popular: false
     },
     {
-      name: "Premium Gamma IPTV Subscription",
+      name: "Premium IPTVPUT Subscription",
       price: "$49.99", 
       period: "12 Months",
       features: [
-        "All Premium Services IPTV Gamma",
+        "All Premium Services IPTV",
         "Ultra HD & 4K Quality",
         "Multiple Device Access",
         "Premium VIP Channels",
@@ -68,11 +68,11 @@ export default function English() {
       popular: true
     },
     {
-      name: "Ultimate Gamma IPTV Subscription",
+      name: "Ultimate IPTVPUT Subscription",
       price: "$289",
       period: "Premium Package",
       features: [
-        "Complete Premium Services IPTV Gamma",
+        "Complete Premium Services IPTV",
         "Maximum Device Support",
         "Exclusive Premium Content",
         "Dedicated Account Manager",
@@ -92,17 +92,17 @@ export default function English() {
         <div className="container mx-auto px-4 text-center">
           <div className="inline-flex items-center bg-white bg-opacity-20 px-4 py-2 rounded-full text-white text-sm font-semibold mb-6">
             <Star className="w-4 h-4 mr-2" />
-            Premium Services IPTV Gamma
+            Premium Services IPTV
           </div>
           
           <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight">
-            Premium <span className="text-yellow-300">Gamma IPTV</span><br />
+            Premium <span className="text-yellow-300">IPTVPUT</span><br />
             Subscription Services
           </h1>
           
           <p className="text-xl sm:text-2xl max-w-4xl mx-auto leading-relaxed mb-8">
-            Experience the ultimate premium services IPTV Gamma offers with our comprehensive 
-            Gamma IPTV subscription plans. Get access to 25,000+ premium channels, 
+            Experience the ultimate premium services IPTV offers with our comprehensive 
+            IPTVPUT subscription plans. Get access to 25,000+ premium channels, 
             26,000+ movies, and exclusive premium content with unmatched quality.
           </p>
           
@@ -132,11 +132,11 @@ export default function English() {
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
             <h2 className="text-3xl sm:text-4xl font-bold text-gray-800 mb-6">
-              Premium Services IPTV Gamma Provides
+              Premium Services IPTV Provides
             </h2>
             <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-              Discover why our Gamma IPTV subscription includes the most comprehensive 
-              premium services IPTV Gamma can offer for the ultimate streaming experience.
+              Discover why our IPTVPUT subscription includes the most comprehensive 
+              premium services IPTV can offer for the ultimate streaming experience.
             </p>
           </div>
 
@@ -165,11 +165,11 @@ export default function English() {
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
               <div>
                 <h2 className="text-3xl sm:text-4xl font-bold text-gray-800 mb-6">
-                  Why Choose Premium Services IPTV Gamma?
+                  Why Choose Premium Services IPTV?
                 </h2>
                 <p className="text-lg text-gray-600 mb-8">
-                  Our Gamma IPTV subscription stands out with exclusive premium services 
-                  IPTV Gamma delivers, ensuring you get the best streaming experience possible.
+                  Our IPTVPUT subscription stands out with exclusive premium services 
+                  IPTV delivers, ensuring you get the best streaming experience possible.
                 </p>
                 
                 <div className="space-y-6">
@@ -177,7 +177,7 @@ export default function English() {
                     <Check className="w-6 h-6 text-green-500 mr-4 mt-1 flex-shrink-0" />
                     <div>
                       <h3 className="text-xl font-bold text-gray-800 mb-2">Premium Channel Selection</h3>
-                      <p className="text-gray-600">Our Gamma IPTV subscription includes premium services IPTV Gamma curates from worldwide broadcasters.</p>
+                      <p className="text-gray-600">Our IPTVPUT subscription includes premium services IPTV curates from worldwide broadcasters.</p>
                     </div>
                   </div>
                   
@@ -193,7 +193,7 @@ export default function English() {
                     <Check className="w-6 h-6 text-green-500 mr-4 mt-1 flex-shrink-0" />
                     <div>
                       <h3 className="text-xl font-bold text-gray-800 mb-2">Premium Support System</h3>
-                      <p className="text-gray-600">24/7 premium customer support is included in every Gamma IPTV subscription plan we offer.</p>
+                      <p className="text-gray-600">24/7 premium customer support is included in every IPTVPUT subscription plan we offer.</p>
                     </div>
                   </div>
                 </div>
@@ -230,11 +230,11 @@ export default function English() {
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
             <h2 className="text-3xl sm:text-4xl font-bold text-gray-800 mb-6">
-              Gamma IPTV Subscription Plans
+              IPTVPUT Subscription Plans
             </h2>
             <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-              Choose your perfect Gamma IPTV subscription plan and enjoy all the premium services 
-              IPTV Gamma has to offer with flexible pricing options.
+              Choose your perfect IPTVPUT subscription plan and enjoy all the premium services 
+              IPTV has to offer with flexible pricing options.
             </p>
           </div>
 
@@ -298,11 +298,11 @@ export default function English() {
       <section className="py-16 sm:py-20 bg-gradient-to-br from-purple-600 via-blue-600 to-green-500 text-white">
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl sm:text-4xl font-bold mb-6">
-            Experience Premium Services IPTV Gamma Today
+            Experience Premium Services IPTV Today
           </h2>
           <p className="text-xl mb-8 max-w-2xl mx-auto">
-            Join thousands of satisfied customers enjoying our premium Gamma IPTV subscription 
-            with all the premium services IPTV Gamma provides for ultimate entertainment.
+            Join thousands of satisfied customers enjoying our premium IPTVPUT subscription 
+            with all the premium services IPTV provides for ultimate entertainment.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a 

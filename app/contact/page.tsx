@@ -58,7 +58,7 @@ export default function Contact() {
       <section className="py-20">
         <div className="container mx-auto px-4">
           <h2 className="text-4xl font-bold text-center text-gray-800 mb-16">
-            Get Gamma IPTV Support
+            Get IPTVPUT Support
           </h2>
           
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-6xl mx-auto">
@@ -99,36 +99,36 @@ export default function Contact() {
       <section className="py-20 bg-gray-50">
         <div className="container mx-auto px-4">
           <h2 className="text-4xl font-bold text-center text-gray-800 mb-16">
-            Gamma IPTV FAQ
+            IPTVPUT FAQ
           </h2>
           
           <div className="max-w-4xl mx-auto space-y-8">
             <div className="bg-white p-6 rounded-lg shadow-lg">
               <h3 className="text-xl font-bold text-primary-600 mb-4">
-                What is included in the Gamma IPTV subscription?
+                What is included in the IPTVPUT subscription?
               </h3>
               <p className="text-gray-600">
-                Your Gamma IPTV subscription includes access to 25,000+ live TV channels, 26,000+ movies and TV shows, 
+                Your IPTVPUT subscription includes access to 25,000+ live TV channels, 26,000+ movies and TV shows, 
                 HD & 4K streaming quality, multi-device compatibility, and 24/7 premium support.
               </p>
             </div>
             
             <div className="bg-white p-6 rounded-lg shadow-lg">
               <h3 className="text-xl font-bold text-primary-600 mb-4">
-                How do I set up my Gamma IPTV service?
+                How do I set up my IPTVPUT service?
               </h3>
               <p className="text-gray-600">
-                After purchasing your Gamma IPTV subscription, we'll provide you with login credentials and setup guides 
+                After purchasing your IPTVPUT subscription, we'll provide you with login credentials and setup guides 
                 for all supported devices. Our support team is available 24/7 to help with installation.
               </p>
             </div>
             
             <div className="bg-white p-6 rounded-lg shadow-lg">
               <h3 className="text-xl font-bold text-primary-600 mb-4">
-                What devices work with Gamma IPTV?
+                What devices work with IPTVPUT?
               </h3>
               <p className="text-gray-600">
-                Our Gamma IPTV service is compatible with Smart TVs, Android boxes, iOS devices, computers, 
+                Our IPTVPUT service is compatible with Smart TVs, Android boxes, iOS devices, computers, 
                 MAG boxes, Firestick, and many more devices. We support M3U, Xtream codes, and portal formats.
               </p>
             </div>
@@ -140,10 +140,10 @@ export default function Contact() {
       <section className="py-20 bg-primary-600 text-white">
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-4xl font-bold mb-6">
-            Ready to Start Your Gamma IPTV Journey?
+            Ready to Start Your IPTVPUT Journey?
           </h2>
           <p className="text-xl mb-8 max-w-2xl mx-auto">
-            Contact us today to get your premium Gamma IPTV subscription and enjoy unlimited entertainment.
+            Contact us today to get your premium IPTVPUT subscription and enjoy unlimited entertainment.
           </p>
           <a 
             href="https://wa.link/kkdei9" 
@@ -151,7 +151,7 @@ export default function Contact() {
             rel="noopener noreferrer"
             className="bg-white text-primary-600 px-8 py-4 rounded-lg text-lg font-semibold hover:bg-gray-100 transition-colors inline-block"
           >
-            Get Gamma IPTV Now
+            Get IPTVPUT Now
           </a>
         </div>
       </section>
