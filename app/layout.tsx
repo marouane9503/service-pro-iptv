@@ -44,7 +44,7 @@ export const metadata: Metadata = {
     },
   },
   verification: {
-    google: 'iptvonlineuk-verification', // Add Google Search Console verification
+    google: 'google6ce108ec9bf739e5', // Google Search Console verification
   },
   alternates: {
     canonical: 'https://iptvonlineuk.com',
