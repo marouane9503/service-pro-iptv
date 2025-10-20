@@ -2,15 +2,15 @@ import { NextResponse } from 'next/server'
 
 export async function GET() {
   const staticPages = [
-    'https://gammaiptv.online',
-    'https://gammaiptv.online/about',
-    'https://gammaiptv.online/blog',
-    'https://gammaiptv.online/pricing',
-    'https://gammaiptv.online/contact',
-    'https://gammaiptv.online/contacts',
-    'https://gammaiptv.online/en',
-    'https://gammaiptv.online/product/1-month',
-    'https://gammaiptv.online/product-category/iptv-subscription/page/3',
+    'https://iptvonlineuk.com',
+    'https://iptvonlineuk.com/about',
+    'https://iptvonlineuk.com/blog',
+    'https://iptvonlineuk.com/pricing',
+    'https://iptvonlineuk.com/contact',
+    'https://iptvonlineuk.com/contacts',
+    'https://iptvonlineuk.com/en',
+    'https://iptvonlineuk.com/product/1-month',
+    'https://iptvonlineuk.com/product-category/iptv-subscription/page/3',
   ]
 
   const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
@@ -19,8 +19,8 @@ export async function GET() {
   <url>
     <loc>${url}</loc>
     <lastmod>${new Date().toISOString()}</lastmod>
-    <changefreq>${url === 'https://gammaiptv.online' ? 'daily' : 'weekly'}</changefreq>
-    <priority>${url === 'https://gammaiptv.online' ? '1.0' : '0.8'}</priority>
+    <changefreq>${url === 'https://iptvonlineuk.com' ? 'daily' : 'weekly'}</changefreq>
+    <priority>${url === 'https://iptvonlineuk.com' ? '1.0' : '0.8'}</priority>
   </url>`).join('')}
 </urlset>`
 
