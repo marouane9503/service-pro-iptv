@@ -21,7 +21,7 @@ export default function robots(): MetadataRoute.Robots {
         crawlDelay: 1,
       }
     ],
-    sitemap: 'https://iptvput.com/sitemap.xml',
-    host: 'https://iptvput.com'
+    sitemap: 'https://iptvonlineuk.com/sitemap.xml',
+    host: 'https://iptvonlineuk.com'
   }
 }

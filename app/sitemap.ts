@@ -3,7 +3,7 @@ import { MetadataRoute } from 'next'
 // Function to fetch WordPress posts for sitemap
 async function getWordPressPosts() {
   try {
-    const response = await fetch('https://blog.iptvput.com/wp-json/wp/v2/posts?per_page=100', {
+    const response = await fetch('https://blog.iptvonlineuk.com/wp-json/wp/v2/posts?per_page=100', {
       next: { revalidate: 86400 } // Revalidate daily
     })
     
@@ -26,31 +26,31 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   // Static pages with optimized priorities
   const staticPages = [
     {
-      url: 'https://iptvput.com',
+      url: 'https://iptvonlineuk.com',
       lastModified: currentDate,
       changeFrequency: 'daily' as const,
       priority: 1.0, // Homepage - highest priority
     },
     {
-      url: 'https://iptvput.com/pricing',
+      url: 'https://iptvonlineuk.com/pricing',
       lastModified: currentDate,
       changeFrequency: 'weekly' as const,
       priority: 0.95, // Pricing is very important for conversions
     },
     {
-      url: 'https://iptvput.com/about',
+      url: 'https://iptvonlineuk.com/about',
       lastModified: currentDate,
       changeFrequency: 'monthly' as const,
       priority: 0.8,
     },
     {
-      url: 'https://iptvput.com/contact',
+      url: 'https://iptvonlineuk.com/contact',
       lastModified: currentDate,
       changeFrequency: 'monthly' as const,
       priority: 0.85, // Contact page is important
     },
     {
-      url: 'https://iptvput.com/blog',
+      url: 'https://iptvonlineuk.com/blog',
       lastModified: currentDate,
       changeFrequency: 'daily' as const,
       priority: 0.9, // Blog listing page
@@ -59,7 +59,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   // Dynamic blog post pages
   const blogPages = posts.map((post: any) => ({
-    url: `https://iptvput.com/blog/${post.slug}`,
+    url: `https://iptvonlineuk.com/blog/${post.slug}`,
     lastModified: new Date(post.modified),
     changeFrequency: 'weekly' as const,
     priority: 0.7, // Individual blog posts
