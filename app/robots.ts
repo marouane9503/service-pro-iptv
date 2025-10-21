@@ -21,7 +21,7 @@ export default function robots(): MetadataRoute.Robots {
         crawlDelay: 1,
       }
     ],
-    sitemap: 'https://iptvonlineuk.com/sitemap.xml',
-    host: 'https://iptvonlineuk.com'
+    sitemap: 'https://serviceproiptv.com/sitemap.xml',
+    host: 'https://serviceproiptv.com'
   }
 }

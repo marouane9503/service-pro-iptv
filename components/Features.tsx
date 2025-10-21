@@ -39,13 +39,13 @@ export default function Features() {
       <div className="container mx-auto px-4">
         <div className="text-center mb-12 sm:mb-16">
           <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold text-gray-800 mb-4 sm:mb-6">
-            Why Choose IPTV ONLINE UK Service?
+            Why Choose Service Pro IPTV Service?
           </h2>
           <p className="text-base sm:text-lg lg:text-xl text-gray-600 max-w-xs sm:max-w-2xl lg:max-w-3xl mx-auto leading-relaxed">
             We offer premium IPTV subscriptions with exceptional quality and service. 
-            <span className="hidden sm:inline"> Our IPTV ONLINE UK works with all available 
+            <span className="hidden sm:inline"> Our Service Pro IPTV works with all available 
             devices in the market including M3U, Enigma 2, Android Box, Smart TV, MAG Box and many more.
-            25,000+ Live Channels & 26,000+ Movies/Shows with regular content updates in your IPTV ONLINE UK subscription.</span>
+            25,000+ Live Channels & 26,000+ Movies/Shows with regular content updates in your Service Pro IPTV subscription.</span>
           </p>
         </div>
 

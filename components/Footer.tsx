@@ -10,14 +10,14 @@ export default function Footer() {
             <div className="flex items-center mb-4 sm:mb-6">
               <img 
                 src="/images/LOGO.webp" 
-                alt="IPTV ONLINE UK Logo" 
+                alt="Service Pro IPTV Logo" 
                 className="w-12 h-12 sm:w-16 sm:h-16 object-contain"
               />
             </div>
             <p className="text-gray-400 mb-4 sm:mb-6 leading-relaxed text-sm sm:text-base">
-              Providing premium IPTV service with IPTV ONLINE UK. Our mission is to deliver 
+              Providing premium IPTV service with Service Pro IPTV. Our mission is to deliver 
               the best streaming experience with reliable servers and exceptional customer support.
-              <span className="hidden sm:inline"> Visit us at iptvonlineuk.com for more information.</span>
+              <span className="hidden sm:inline"> Visit us at serviceproiptv.com for more information.</span>
             </p>
             <div className="flex space-x-4">
               <a href="#" className="text-gray-400 hover:text-primary-400 transition-colors">
@@ -71,8 +71,8 @@ export default function Footer() {
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="w-4 h-4 sm:w-5 sm:h-5 text-primary-400 flex-shrink-0" />
-                <a href="mailto:contact@iptvonlineuk.com" className="text-gray-400 hover:text-white transition-colors text-sm sm:text-base break-all">
-                  contact@iptvonlineuk.com
+                <a href="mailto:contact@serviceproiptv.com" className="text-gray-400 hover:text-white transition-colors text-sm sm:text-base break-all">
+                  contact@serviceproiptv.com
                 </a>
               </div>
               <div className="flex items-center space-x-3">
@@ -96,7 +96,7 @@ export default function Footer() {
         <div className="border-t border-primary-800 mt-8 sm:mt-12 pt-6 sm:pt-8">
           <div className="flex flex-col sm:flex-row justify-between items-center space-y-2 sm:space-y-0">
             <p className="text-gray-400 text-xs sm:text-sm text-center sm:text-left">
-              © 2025 IPTV ONLINE UK. All rights reserved. | iptvonlineuk.com
+              © 2025 Service Pro IPTV. All rights reserved. | serviceproiptv.com
             </p>
             <p className="text-gray-400 text-xs sm:text-sm text-center sm:text-right">
               <span className="hidden sm:inline">Powered by Premium Streaming Technology</span>

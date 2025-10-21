@@ -2,35 +2,35 @@ import './globals.css'
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
 import Script from 'next/script'
-import { IPTVONLINEUKStructuredData } from '../components/seo/StructuredData'
+import { ServiceProIPTVStructuredData } from '../components/seo/StructuredData'
 
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'IPTV ONLINE UK - Premium IPTV Streaming Service | 25,000+ Channels',
-  description: 'IPTV ONLINE UK offers premium IPTV streaming with 25,000+ live TV channels, 26,000+ movies & TV shows. Get your IPTV ONLINE UK subscription with HD & 4K quality streaming worldwide.',
-  keywords: 'IPTV ONLINE UK, iptv online uk subscription, premium iptv, iptv streaming, live tv channels, iptv service, uk iptv provider, iptv uk, streaming service',
+  title: 'Service Pro IPTV - Premium IPTV Streaming Service | 25,000+ Channels',
+  description: 'Service Pro IPTV offers premium IPTV streaming with 25,000+ live TV channels, 26,000+ movies & TV shows. Get your Service Pro IPTV subscription with HD & 4K quality streaming worldwide.',
+  keywords: 'Service Pro IPTV, service pro iptv subscription, premium iptv, iptv streaming, live tv channels, iptv service, uk iptv provider, iptv uk, streaming service',
   openGraph: {
-    title: 'IPTV ONLINE UK - Premium IPTV Streaming Service | 25,000+ Channels',
-    description: 'Get IPTV ONLINE UK subscription with 25,000+ live TV channels and 26,000+ movies. Premium IPTV streaming service with HD & 4K quality.',
-    url: 'https://iptvonlineuk.com',
-    siteName: 'IPTV ONLINE UK',
+    title: 'Service Pro IPTV - Premium IPTV Streaming Service | 25,000+ Channels',
+    description: 'Get Service Pro IPTV subscription with 25,000+ live TV channels and 26,000+ movies. Premium IPTV streaming service with HD & 4K quality.',
+    url: 'https://serviceproiptv.com',
+    siteName: 'Service Pro IPTV',
     locale: 'en_US',
     type: 'website',
     images: [
       {
-        url: 'https://iptvonlineuk.com/images/LOGO.webp',
+        url: 'https://serviceproiptv.com/images/LOGO.webp',
         width: 300,
         height: 300,
-        alt: 'IPTV ONLINE UK Logo - Premium IPTV Streaming Service'
+        alt: 'Service Pro IPTV Logo - Premium IPTV Streaming Service'
       }
     ]
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'IPTV ONLINE UK - Premium IPTV Streaming Service',
-    description: 'Premium IPTV ONLINE UK streaming with 25,000+ channels. Best IPTV subscription service.',
-    images: ['https://iptvonlineuk.com/images/LOGO.webp']
+    title: 'Service Pro IPTV - Premium IPTV Streaming Service',
+    description: 'Premium Service Pro IPTV streaming with 25,000+ channels. Best IPTV subscription service.',
+    images: ['https://serviceproiptv.com/images/LOGO.webp']
   },
   robots: {
     index: true,
@@ -47,10 +47,10 @@ export const metadata: Metadata = {
     google: 'google6ce108ec9bf739e5', // Google Search Console verification
   },
   alternates: {
-    canonical: 'https://iptvonlineuk.com',
+    canonical: 'https://serviceproiptv.com',
     languages: {
-      'en': 'https://iptvonlineuk.com',
-      'en-US': 'https://iptvonlineuk.com/en',
+      'en': 'https://serviceproiptv.com',
+      'en-US': 'https://serviceproiptv.com/en',
     }
   },
   icons: {
@@ -73,17 +73,17 @@ export default function RootLayout({
       <head>
         <link rel="icon" href="/favicon.ico" sizes="any" />
         <link rel="icon" href="/images/ICON.ico" />
-        <link rel="canonical" href="https://iptvonlineuk.com" />
+        <link rel="canonical" href="https://serviceproiptv.com" />
         <meta name="theme-color" content="#2563eb" />
         <meta name="msapplication-TileColor" content="#2563eb" />
-        <meta name="application-name" content="IPTV ONLINE UK" />
-        <meta name="apple-mobile-web-app-title" content="IPTV ONLINE UK" />
+        <meta name="application-name" content="Service Pro IPTV" />
+        <meta name="apple-mobile-web-app-title" content="Service Pro IPTV" />
         <meta name="format-detection" content="telephone=no" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
       </head>
       <body className={inter.className}>
-        <IPTVONLINEUKStructuredData />
+        <ServiceProIPTVStructuredData />
         {children}
         
         {/* Google Analytics */}

@@ -10,13 +10,13 @@ import Testimonials from '../components/Testimonials'
 import Footer from '../components/Footer'
 
 export const metadata: Metadata = {
-  title: 'IPTV ONLINE UK - Official Website | Premium IPTV Subscription Service',
-  description: 'Official IPTV ONLINE UK website offering premium IPTV subscriptions. Get IPTV ONLINE UK with 25,000+ live TV channels, 26,000+ movies & TV shows. Start your IPTV ONLINE UK subscription today.',
-  keywords: 'iptv online uk, iptv online uk subscription, iptv online uk website, premium iptv, iptv streaming service, live tv channels, uk iptv',
+  title: 'Service Pro IPTV - Official Website | Premium IPTV Subscription Service',
+  description: 'Official Service Pro IPTV website offering premium IPTV subscriptions. Get Service Pro IPTV with 25,000+ live TV channels, 26,000+ movies & TV shows. Start your Service Pro IPTV subscription today.',
+  keywords: 'service pro iptv, service pro iptv subscription, service pro iptv website, premium iptv, iptv streaming service, live tv channels, uk iptv',
   openGraph: {
-    title: 'IPTV ONLINE UK - Official Website | Premium IPTV Subscription',
-    description: 'Get your IPTV ONLINE UK subscription from the official website. 25,000+ channels, 26,000+ movies with premium streaming quality.',
-    url: 'https://iptvonlineuk.com',
+    title: 'Service Pro IPTV - Official Website | Premium IPTV Subscription',
+    description: 'Get your Service Pro IPTV subscription from the official website. 25,000+ channels, 26,000+ movies with premium streaming quality.',
+    url: 'https://serviceproiptv.com',
   },
 }
 

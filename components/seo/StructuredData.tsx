@@ -1,13 +1,13 @@
 // JSON-LD Structured Data for better SEO
-export function IPTVONLINEUKStructuredData() {
+export function ServiceProIPTVStructuredData() {
   const organizationData = {
     "@context": "https://schema.org",
     "@type": "Organization",
-    "name": "IPTV ONLINE UK",
-    "alternateName": ["IPTV ONLINE UK Service", "IPTV UK"],
-    "url": "https://iptvonlineuk.com",
-    "logo": "https://iptvonlineuk.com/images/LOGO.webp",
-    "description": "IPTV ONLINE UK - Premium IPTV streaming service with 25,000+ live TV channels and 26,000+ movies. Professional IPTV subscription provider.",
+    "name": "Service Pro IPTV",
+    "alternateName": ["Service Pro IPTV Service", "IPTV UK"],
+    "url": "https://serviceproiptv.com",
+    "logo": "https://serviceproiptv.com/images/LOGO.webp",
+    "description": "Service Pro IPTV - Premium IPTV streaming service with 25,000+ live TV channels and 26,000+ movies. Professional IPTV subscription provider.",
     "contactPoint": {
       "@type": "ContactPoint",
       "telephone": "+44-7956-154482",
@@ -31,23 +31,23 @@ export function IPTVONLINEUKStructuredData() {
   const serviceData = {
     "@context": "https://schema.org",
     "@type": "Service",
-    "name": "IPTV ONLINE UK Subscription Service",
-    "description": "Premium IPTV ONLINE UK streaming service offering 25,000+ live TV channels, 26,000+ movies and TV shows with HD/4K quality streaming.",
+    "name": "Service Pro IPTV Subscription Service",
+    "description": "Premium Service Pro IPTV streaming service offering 25,000+ live TV channels, 26,000+ movies and TV shows with HD/4K quality streaming.",
     "provider": {
       "@type": "Organization",
-      "name": "IPTV ONLINE UK"
+      "name": "Service Pro IPTV"
     },
     "serviceType": "IPTV Streaming Service",
     "areaServed": "Worldwide",
     "hasOfferCatalog": {
       "@type": "OfferCatalog",
-      "name": "IPTV ONLINE UK Subscription Plans",
+      "name": "Service Pro IPTV Subscription Plans",
       "itemListElement": [
         {
           "@type": "Offer",
           "itemOffered": {
             "@type": "Service",
-            "name": "IPTV ONLINE UK 1 Month Subscription"
+            "name": "Service Pro IPTV 1 Month Subscription"
           },
           "price": "10.99",
           "priceCurrency": "USD"
@@ -56,7 +56,7 @@ export function IPTVONLINEUKStructuredData() {
           "@type": "Offer", 
           "itemOffered": {
             "@type": "Service",
-            "name": "IPTV ONLINE UK 12 Month Subscription"
+            "name": "Service Pro IPTV 12 Month Subscription"
           },
           "price": "49.99",
           "priceCurrency": "USD"
@@ -65,7 +65,7 @@ export function IPTVONLINEUKStructuredData() {
           "@type": "Offer",
           "itemOffered": {
             "@type": "Service", 
-            "name": "IPTV ONLINE UK Premium Package"
+            "name": "Service Pro IPTV Premium Package"
           },
           "price": "289",
           "priceCurrency": "USD"
@@ -84,22 +84,22 @@ export function IPTVONLINEUKStructuredData() {
   const websiteData = {
     "@context": "https://schema.org",
     "@type": "WebSite",
-    "name": "IPTV ONLINE UK",
-    "alternateName": "IPTV ONLINE UK Official Website",
-    "url": "https://iptvonlineuk.com",
-    "description": "Official IPTV ONLINE UK website offering premium IPTV subscriptions with 25,000+ channels and 26,000+ movies.",
+    "name": "Service Pro IPTV",
+    "alternateName": "Service Pro IPTV Official Website",
+    "url": "https://serviceproiptv.com",
+    "description": "Official Service Pro IPTV website offering premium IPTV subscriptions with 25,000+ channels and 26,000+ movies.",
     "publisher": {
       "@type": "Organization",
-      "name": "IPTV ONLINE UK"
+      "name": "Service Pro IPTV"
     },
     "potentialAction": {
       "@type": "SearchAction",
-      "target": "https://iptvonlineuk.com/search?q={search_term_string}",
+      "target": "https://serviceproiptv.com/search?q={search_term_string}",
       "query-input": "required name=search_term_string"
     },
     "mainEntity": {
       "@type": "Service",
-      "name": "IPTV ONLINE UK Service"
+      "name": "Service Pro IPTV Service"
     }
   }
 
@@ -127,7 +127,7 @@ export function IPTVONLINEUKStructuredData() {
   )
 }
 
-export function IPTVONLINEUKBreadcrumb({ items }: { items: Array<{ name: string; url?: string }> }) {
+export function ServiceProIPTVBreadcrumb({ items }: { items: Array<{ name: string; url?: string }> }) {
   const breadcrumbData = {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
@@ -135,7 +135,7 @@ export function IPTVONLINEUKBreadcrumb({ items }: { items: Array<{ name: string;
       "@type": "ListItem",
       "position": index + 1,
       "name": item.name,
-      "item": item.url ? `https://iptvonlineuk.com${item.url}` : undefined
+      "item": item.url ? `https://serviceproiptv.com${item.url}` : undefined
     }))
   }
 

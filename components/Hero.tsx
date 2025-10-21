@@ -17,13 +17,13 @@ export default function Hero() {
       <div className="container mx-auto px-4 py-12 sm:py-16 lg:py-20 relative z-10">
         <div className="text-center">
           <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold mb-4 sm:mb-6 leading-tight">
-            Premium <span className="text-primary-400">IPTV ONLINE UK</span> Service
+            Premium <span className="text-primary-400">Service Pro IPTV</span> Service
           </h1>
           <p className="text-base sm:text-lg md:text-xl lg:text-2xl mb-6 sm:mb-8 max-w-xs sm:max-w-2xl lg:max-w-3xl mx-auto leading-relaxed px-2">
-            Experience premium IPTV streaming with IPTV ONLINE UK! Your trusted IPTV subscription provider 
+            Experience premium IPTV streaming with Service Pro IPTV! Your trusted IPTV subscription provider 
             offering worldwide entertainment. <span className="hidden sm:inline">25,000+ Live TV Channels & 26,000+ Movies/TV Shows 
-            with flexible IPTV ONLINE UK subscription plans for the ultimate streaming experience.</span>
-            <span className="sm:hidden">25K+ Channels & 26K+ Movies with premium IPTV ONLINE UK subscriptions.</span>
+            with flexible Service Pro IPTV subscription plans for the ultimate streaming experience.</span>
+            <span className="sm:hidden">25K+ Channels & 26K+ Movies with premium Service Pro IPTV subscriptions.</span>
           </p>
           
           <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center mb-8 sm:mb-12 px-4">

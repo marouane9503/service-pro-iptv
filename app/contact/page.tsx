@@ -4,8 +4,8 @@ import Footer from '../../components/Footer'
 import { Phone, Mail, Clock, MessageCircle, MapPin, Headphones } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: 'Contact IPTV ONLINE UK - Get Support for Your IPTV Subscription',
-  description: 'Contact IPTV ONLINE UK for support with your IPTV subscription. Get help via WhatsApp, email or phone for your IPTV ONLINE UK service.',
+  title: 'Contact Service Pro IPTV - Get Support for Your IPTV Subscription',
+  description: 'Contact Service Pro IPTV for support with your IPTV subscription. Get help via WhatsApp, email or phone for your Service Pro IPTV service.',
   keywords: 'contact iptv online uk, iptv online uk support, iptv help, iptv online uk customer service, iptv contact'
 }
 
@@ -14,7 +14,7 @@ export default function Contact() {
     {
       icon: <MessageCircle className="w-8 h-8" />,
       title: "WhatsApp Support",
-      description: "Get instant help with your IPTV ONLINE UK subscription",
+      description: "Get instant help with your Service Pro IPTV subscription",
       contact: "+44 7956 154482",
       link: "https://wa.me/447956154482",
       available: "24/7 Available"
@@ -22,15 +22,15 @@ export default function Contact() {
     {
       icon: <Mail className="w-8 h-8" />,
       title: "Email Support",
-      description: "Send us your IPTV ONLINE UK service questions",
-      contact: "contact@iptvonlineuk.com",
-      link: "mailto:contact@iptvonlineuk.com",
+      description: "Send us your Service Pro IPTV service questions",
+      contact: "contact@serviceproiptv.com",
+      link: "mailto:contact@serviceproiptv.com",
       available: "Response within 24h"
     },
     {
       icon: <Phone className="w-8 h-8" />,
       title: "Phone Support",
-      description: "Call us for immediate IPTV ONLINE UK assistance",
+      description: "Call us for immediate Service Pro IPTV assistance",
       contact: "+44 7956 154482",
       link: "tel:+447956154482",
       available: "Mon-Sat 11AM-10PM"
@@ -45,10 +45,10 @@ export default function Contact() {
       <section className="bg-gradient-to-br from-primary-600 to-primary-800 text-white py-20">
         <div className="container mx-auto px-4 text-center">
           <h1 className="text-5xl md:text-6xl font-bold mb-6">
-            Contact <span className="text-blue-300">IPTV ONLINE UK</span>
+            Contact <span className="text-blue-300">Service Pro IPTV</span>
           </h1>
           <p className="text-xl md:text-2xl max-w-4xl mx-auto leading-relaxed">
-            Need help with your IPTV ONLINE UK subscription? Our premium support team is here to assist 
+            Need help with your Service Pro IPTV subscription? Our premium support team is here to assist 
             you with all your IPTV service needs.
           </p>
         </div>
@@ -58,7 +58,7 @@ export default function Contact() {
       <section className="py-20">
         <div className="container mx-auto px-4">
           <h2 className="text-4xl font-bold text-center text-gray-800 mb-16">
-            Get IPTV ONLINE UK Support
+            Get Service Pro IPTV Support
           </h2>
           
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-6xl mx-auto">
@@ -99,36 +99,36 @@ export default function Contact() {
       <section className="py-20 bg-gray-50">
         <div className="container mx-auto px-4">
           <h2 className="text-4xl font-bold text-center text-gray-800 mb-16">
-            IPTV ONLINE UK FAQ
+            Service Pro IPTV FAQ
           </h2>
           
           <div className="max-w-4xl mx-auto space-y-8">
             <div className="bg-white p-6 rounded-lg shadow-lg">
               <h3 className="text-xl font-bold text-primary-600 mb-4">
-                What is included in the IPTV ONLINE UK subscription?
+                What is included in the Service Pro IPTV subscription?
               </h3>
               <p className="text-gray-600">
-                Your IPTV ONLINE UK subscription includes access to 25,000+ live TV channels, 26,000+ movies and TV shows, 
+                Your Service Pro IPTV subscription includes access to 25,000+ live TV channels, 26,000+ movies and TV shows, 
                 HD & 4K streaming quality, multi-device compatibility, and 24/7 premium support.
               </p>
             </div>
             
             <div className="bg-white p-6 rounded-lg shadow-lg">
               <h3 className="text-xl font-bold text-primary-600 mb-4">
-                How do I set up my IPTV ONLINE UK service?
+                How do I set up my Service Pro IPTV service?
               </h3>
               <p className="text-gray-600">
-                After purchasing your IPTV ONLINE UK subscription, we'll provide you with login credentials and setup guides 
+                After purchasing your Service Pro IPTV subscription, we'll provide you with login credentials and setup guides 
                 for all supported devices. Our support team is available 24/7 to help with installation.
               </p>
             </div>
             
             <div className="bg-white p-6 rounded-lg shadow-lg">
               <h3 className="text-xl font-bold text-primary-600 mb-4">
-                What devices work with IPTV ONLINE UK?
+                What devices work with Service Pro IPTV?
               </h3>
               <p className="text-gray-600">
-                Our IPTV ONLINE UK service is compatible with Smart TVs, Android boxes, iOS devices, computers, 
+                Our Service Pro IPTV service is compatible with Smart TVs, Android boxes, iOS devices, computers, 
                 MAG boxes, Firestick, and many more devices. We support M3U, Xtream codes, and portal formats.
               </p>
             </div>
@@ -140,10 +140,10 @@ export default function Contact() {
       <section className="py-20 bg-primary-600 text-white">
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-4xl font-bold mb-6">
-            Ready to Start Your IPTV ONLINE UK Journey?
+            Ready to Start Your Service Pro IPTV Journey?
           </h2>
           <p className="text-xl mb-8 max-w-2xl mx-auto">
-            Contact us today to get your premium IPTV ONLINE UK subscription and enjoy unlimited entertainment.
+            Contact us today to get your premium Service Pro IPTV subscription and enjoy unlimited entertainment.
           </p>
           <a 
             href="https://wa.link/kkdei9" 
@@ -151,7 +151,7 @@ export default function Contact() {
             rel="noopener noreferrer"
             className="bg-white text-primary-600 px-8 py-4 rounded-lg text-lg font-semibold hover:bg-gray-100 transition-colors inline-block"
           >
-            Get IPTV ONLINE UK Now
+            Get Service Pro IPTV Now
           </a>
         </div>
       </section>
