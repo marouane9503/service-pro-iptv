@@ -4,15 +4,15 @@ export async function GET() {
   const sitemapIndex = `<?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
-    <loc>https://iptvonlineuk.com/sitemap.xml</loc>
+    <loc>https://serviceproiptv.com/sitemap.xml</loc>
     <lastmod>${new Date().toISOString()}</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://iptvonlineuk.com/sitemap-pages.xml</loc>
+    <loc>https://serviceproiptv.com/sitemap-pages.xml</loc>
     <lastmod>${new Date().toISOString()}</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://iptvonlineuk.com/sitemap-posts.xml</loc>
+    <loc>https://serviceproiptv.com/sitemap-posts.xml</loc>
     <lastmod>${new Date().toISOString()}</lastmod>
   </sitemap>
 </sitemapindex>`
